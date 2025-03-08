@@ -7,7 +7,6 @@
 
 ---
 # Penguin Learn
-
 Penguin learn is een FOSS cient voor StudyGo
 
 Penguin learn kan tot nu toe:
@@ -22,5 +21,7 @@ Penguin learn kan tot nu toe:
  - [x] ui rework voor telefoons
  - [x] SG home pagina
  - [x] zoeken
- - [ ] groepen
+ - [x] groepen
  - [ ] laatste fixes (spelling plz iemand help mij)
+
+## gezocht: betatesters
